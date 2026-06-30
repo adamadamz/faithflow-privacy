@@ -9,8 +9,8 @@ GitHub Pages legal page for FaithFlow.
 
 ## Files
 
-- `index.html` redirects the repository root to `privacy-policy.html`.
-- `privacy-policy.html` is the canonical privacy policy page.
+- `index.html` is the GitHub Pages root privacy policy page.
+- `privacy-policy.html` contains the same privacy policy content for App Store and in-app links.
 
 ## Content Rules
 
